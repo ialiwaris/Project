@@ -7,7 +7,7 @@ To run applications using Docker, you need to create or pull a **container** ima
 # Steps to Install and Run a Docker Container
 ### 1. **Pull the Nginx Docker Image**
 First, pull the official Nginx image from Docker Hub:
-```bash
+```bash 
 docker pull nginx
 ```
 ### 2. **Run the Nginx Container**
