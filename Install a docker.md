@@ -8,3 +8,19 @@ This repository provides a comprehensive guide to installing Docker on Ubuntu Se
 - Installing dependencies and verifying the Docker installation.
 # Let's Install...
 
+# Docker Installation on Ubuntu Server
+
+### 1. Update the package list: First, update the list of available packages:
+```bash
+sudo apt update
+```
+### 2. Downlaod Docker:
+```bash
+curl https://get.docker.com | sh
+```
+### 3. Verify Docker:
+```bash
+sudo docker ps
+```
+## Docker Is Installed Now!
+# Thank You...
