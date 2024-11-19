@@ -1,4 +1,4 @@
-# Docker Installation on Ubuntu Server
+# Docker Installation on Ubuntu Server 
 
 This repository provides a comprehensive guide to installing Docker on Ubuntu Server. Docker is a popular containerization platform that simplifies the deployment and management of applications.
 
