@@ -1,3 +1,6 @@
+##  Installing-a-Ubuntu-Server
+Step-by-step guide to install and configure a basic Ubuntu Server for beginners. This repository covers everything from downloading the ISO to setting up SSH, firewall, and essential tools for server management.
+# Let's Install...
 ## ISO File:
 - [Download Ubuntu Server ISO](https://ubuntu.com/download/server)
 ## Bootable USB: A USB drive (minimum 4GB) and a tool like:
