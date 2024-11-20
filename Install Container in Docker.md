@@ -3,8 +3,8 @@
 Docker is a platform for developing, shipping, and running applications inside **containers**. A **container** is a lightweight, standalone, and executable package that includes everything needed to run a piece of software, including the code, runtime, libraries, and system tools.
 
 To run applications using Docker, you need to create or pull a **container** image, and then you can **run** it as a **container**.
-
-# Steps to Install and Run a Docker Container
+# Let's Install...
+## Steps to Install and Run a Docker Container
 ### 1. **Pull the Nginx Docker Image**
 First, pull the official Nginx image from Docker Hub:
 ```bash 
