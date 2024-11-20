@@ -20,7 +20,7 @@ This project demonstrates setting up a Docker environment with interconnected co
 ### Step 1: Install Docker
 ```bash
 sudo apt update
-sudo apt install docker.io
+curl https://get.docker.com | sh
 ```
 ### Step 2: Create Docker Networks
 ```bash
